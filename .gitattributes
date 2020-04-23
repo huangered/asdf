@@ -1,0 +1,4 @@
+org.eclipse.jgit.test-5.7.1-SNAPSHOT-tests.jar filter=lfs diff=lfs merge=lfs -text
+org.eclipse.jgit.ssh.apache.test-5.7.1-SNAPSHOT.jar filter=lfs diff=lfs merge=lfs -text
+org.eclipse.jgit.ssh.apache.test-5.7.1-SNAPSHOT-tests.jar filter=lfs diff=lfs merge=lfs -text
+org.eclipse.jgit.test-5.7.1-SNAPSHOT.jar filter=lfs diff=lfs merge=lfs -text
